@@ -1,3 +1,3 @@
 Name: Micky
 
-Partner: Stanliry
+Partner: Sanlireey
