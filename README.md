@@ -1,3 +1,3 @@
 Name: Micky
 
-Partner: Stanly
+Partner: Stanliry
